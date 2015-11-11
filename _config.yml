@@ -1,6 +1,6 @@
 name: NortonZanini
 favicon: null
-layout_spectrum: 0.5291277901269495
+layout_spectrum: 0.3866
 typography_spectrum: 0.5041956948116422
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.2664492663461715
+  brandStrength: 0.25
   lightness: 0.29449973488226533
   saturation: 0.28817781736142933
   rhythmicContrast: 0.49027803470380604
